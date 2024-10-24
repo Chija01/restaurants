@@ -1,0 +1,15 @@
+{
+  "name": "restaurants",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "chija01",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
